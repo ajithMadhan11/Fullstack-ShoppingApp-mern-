@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": " nodemon app.js"
   },
   "keywords": [],
   "author": "",
@@ -19,11 +19,12 @@
     "express-validator": "^6.2.0",
     "formidable": "^1.2.1",
     "i": "^0.3.6",
+    "nodemon": "^1.19.4",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.15",
     "mongoose": "^5.7.7",
     "morgan": "^1.9.1",
-    "nodemon": "^1.19.4",
+    
     "npm": "^6.13.0",
     "uuid": "^3.3.3"
   }
