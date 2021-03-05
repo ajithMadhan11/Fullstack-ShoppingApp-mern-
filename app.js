@@ -27,7 +27,7 @@ app.use(cors());
 app.use("/api",authRoutes);
 
 
-const port = 8080;
+const port = 8000;
 
 app.listen(port,()=>{
     console.log(`App is running at ${port}`)
